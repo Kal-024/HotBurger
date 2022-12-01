@@ -1,0 +1,104 @@
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.Properties.Resources.resources
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CopyComplete
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe.config
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.pdb
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.exe
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.pdb
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmAdminView.resources
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmLogin.resources
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmSalesZone.resources
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmHome.resources
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmAnimalsZone.resources
+C:\Users\Usuario\Downloads\The Free Ultimate UI Design Tool for Windows Forms\Krypton_Toolkit_Demo\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.SalesZoneForms.frmSalesCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe.config
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.pdb
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmAdminView.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmAnimalsZone.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmHome.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmSalesZone.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmLogin.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.SalesZoneForms.frmSalesCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.SalesZoneForms.frmTourCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.exe
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.pdb
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmHZHistorial.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.HealthZoneForms.frmHZConsulta.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.HealthZoneForms.frmHZInsumos.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.AnimalZoneForms.frmAnimalCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.EmpleadoZoneForms.frmEmpleadoCuidadorCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.EmpleadoZoneForms.frmEmpleadoVeterinarioCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmEmpleadoZone.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.TourZoneForms.frmZonaCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FoodZoneForms.frmAlimentoCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FoodZoneForms.frmDonacionCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FoodZoneForms.frmDonadorCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FoodZoneForms.frmProveedorCRUD.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmFoodZone.resources
+C:\Users\Usuario\OneDrive\Documentos\ZooZone\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmToursZone.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmLogin.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.exe
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmMain.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo ZooZone\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBuscarElemento.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmLogin.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmMain.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.exe
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBurgerList.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmHambuerguesaInfo.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmHotDogInfo.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmHotDogList.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmSandwichesInfo.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmFactura.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.pnlComidas.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.pnlBebidas.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmCocaColaInfo.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmCocaColaList.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBoletoCierre.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBoletoProductos.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBoletoInventario.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.MainBoletos.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmSandwichesList.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.pnlInsumos.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmMetodoPago.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmGestionPago.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.pnlAbastecimiento.resources
