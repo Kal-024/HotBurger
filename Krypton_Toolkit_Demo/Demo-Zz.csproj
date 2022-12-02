@@ -74,136 +74,172 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Login.cs">
+    <Compile Include="Presentacion\Caja\FrmPedido.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login.Designer.cs">
-      <DependentUpon>Login.cs</DependentUpon>
+    <Compile Include="Presentacion\Caja\FrmPedido.Designer.cs">
+      <DependentUpon>FrmPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Inventario\FrmInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Inventario\FrmInventario.Designer.cs">
+      <DependentUpon>FrmInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Inventario\FrmProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Inventario\FrmProveedores.Designer.cs">
+      <DependentUpon>FrmProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\GUI Common\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\GUI Common\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Pedido\FrmComanda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Pedido\FrmComanda.Designer.cs">
+      <DependentUpon>FrmComanda.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="View\frmBoletoProductos.cs">
+    <Compile Include="Presentacion\Todas\frmBoletoProductos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmBoletoProductos.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmBoletoProductos.Designer.cs">
       <DependentUpon>frmBoletoProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmBoletoInventario.cs">
+    <Compile Include="Presentacion\Todas\frmBoletoInventario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmBoletoInventario.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmBoletoInventario.Designer.cs">
       <DependentUpon>frmBoletoInventario.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmBurgerList.cs">
+    <Compile Include="Presentacion\Todas\frmBurgerList.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmBurgerList.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmBurgerList.Designer.cs">
       <DependentUpon>frmBurgerList.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmBoletoCierre.cs">
+    <Compile Include="Presentacion\Todas\frmBoletoCierre.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmBoletoCierre.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmBoletoCierre.Designer.cs">
       <DependentUpon>frmBoletoCierre.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmFactura.cs">
+    <Compile Include="Presentacion\Pedido\FrmFactura.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmFactura.Designer.cs">
-      <DependentUpon>frmFactura.cs</DependentUpon>
+    <Compile Include="Presentacion\Pedido\FrmFactura.Designer.cs">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmHambuerguesaInfo.cs">
+    <Compile Include="Presentacion\Todas\frmHambuerguesaInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmHambuerguesaInfo.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmHambuerguesaInfo.Designer.cs">
       <DependentUpon>frmHambuerguesaInfo.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmCocaColaInfo.cs">
+    <Compile Include="Presentacion\Todas\frmCocaColaInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmCocaColaInfo.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmCocaColaInfo.Designer.cs">
       <DependentUpon>frmCocaColaInfo.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmGestionPago.cs">
+    <Compile Include="Presentacion\Todas\frmGestionPago.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmGestionPago.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmGestionPago.Designer.cs">
       <DependentUpon>frmGestionPago.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmSandwichesInfo.cs">
+    <Compile Include="Presentacion\Todas\frmSandwichesInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmSandwichesInfo.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmSandwichesInfo.Designer.cs">
       <DependentUpon>frmSandwichesInfo.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmHotDogInfo.cs">
+    <Compile Include="Presentacion\Todas\frmHotDogInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmHotDogInfo.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmHotDogInfo.Designer.cs">
       <DependentUpon>frmHotDogInfo.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmCocaColaList.cs">
+    <Compile Include="Presentacion\Todas\frmCocaColaList.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmCocaColaList.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmCocaColaList.Designer.cs">
       <DependentUpon>frmCocaColaList.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmSandwichesList.cs">
+    <Compile Include="Presentacion\Todas\frmSandwichesList.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmSandwichesList.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmSandwichesList.Designer.cs">
       <DependentUpon>frmSandwichesList.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmHotDogList.cs">
+    <Compile Include="Presentacion\Todas\frmHotDogList.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmHotDogList.Designer.cs">
+    <Compile Include="Presentacion\Todas\frmHotDogList.Designer.cs">
       <DependentUpon>frmHotDogList.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmMain.cs">
+    <Compile Include="Presentacion\GUI Common\FrmMenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmMain.Designer.cs">
-      <DependentUpon>frmMain.cs</DependentUpon>
+    <Compile Include="Presentacion\GUI Common\FrmMenuPrincipal.Designer.cs">
+      <DependentUpon>FrmMenuPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\frmMetodoPago.cs">
+    <Compile Include="Presentacion\Pedido\FrmPago.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frmMetodoPago.Designer.cs">
-      <DependentUpon>frmMetodoPago.cs</DependentUpon>
+    <Compile Include="Presentacion\Pedido\FrmPago.Designer.cs">
+      <DependentUpon>FrmPago.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\MainBoletos.cs">
+    <Compile Include="Presentacion\Todas\MainBoletos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\MainBoletos.Designer.cs">
+    <Compile Include="Presentacion\Todas\MainBoletos.Designer.cs">
       <DependentUpon>MainBoletos.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\pnlAbastecimiento.cs">
+    <Compile Include="Presentacion\Inventario\FrmPedidoAbastecimiento.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\pnlAbastecimiento.Designer.cs">
-      <DependentUpon>pnlAbastecimiento.cs</DependentUpon>
+    <Compile Include="Presentacion\Inventario\FrmPedidoAbastecimiento.Designer.cs">
+      <DependentUpon>FrmPedidoAbastecimiento.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\pnlInsumos.cs">
+    <Compile Include="Presentacion\Todas\pnlInsumos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\pnlInsumos.Designer.cs">
+    <Compile Include="Presentacion\Todas\pnlInsumos.Designer.cs">
       <DependentUpon>pnlInsumos.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\pnlComidas.cs">
+    <Compile Include="Presentacion\Todas\pnlComidas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\pnlComidas.Designer.cs">
+    <Compile Include="Presentacion\Todas\pnlComidas.Designer.cs">
       <DependentUpon>pnlComidas.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\pnlBebidas.cs">
+    <Compile Include="Presentacion\Todas\pnlBebidas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\pnlBebidas.Designer.cs">
+    <Compile Include="Presentacion\Todas\pnlBebidas.Designer.cs">
       <DependentUpon>pnlBebidas.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Login.resx">
-      <DependentUpon>Login.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\Caja\FrmPedido.resx">
+      <DependentUpon>FrmPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Inventario\FrmInventario.resx">
+      <DependentUpon>FrmInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Inventario\FrmProveedores.resx">
+      <DependentUpon>FrmProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\GUI Common\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Pedido\FrmComanda.resx">
+      <DependentUpon>FrmComanda.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -215,64 +251,64 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="View\frmBoletoProductos.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmBoletoProductos.resx">
       <DependentUpon>frmBoletoProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmBoletoInventario.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmBoletoInventario.resx">
       <DependentUpon>frmBoletoInventario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmBurgerList.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmBurgerList.resx">
       <DependentUpon>frmBurgerList.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmBoletoCierre.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmBoletoCierre.resx">
       <DependentUpon>frmBoletoCierre.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmFactura.resx">
-      <DependentUpon>frmFactura.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\Pedido\FrmFactura.resx">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmHambuerguesaInfo.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmHambuerguesaInfo.resx">
       <DependentUpon>frmHambuerguesaInfo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmCocaColaInfo.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmCocaColaInfo.resx">
       <DependentUpon>frmCocaColaInfo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmGestionPago.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmGestionPago.resx">
       <DependentUpon>frmGestionPago.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmSandwichesInfo.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmSandwichesInfo.resx">
       <DependentUpon>frmSandwichesInfo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmHotDogInfo.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmHotDogInfo.resx">
       <DependentUpon>frmHotDogInfo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmCocaColaList.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmCocaColaList.resx">
       <DependentUpon>frmCocaColaList.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmSandwichesList.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmSandwichesList.resx">
       <DependentUpon>frmSandwichesList.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmHotDogList.resx">
+    <EmbeddedResource Include="Presentacion\Todas\frmHotDogList.resx">
       <DependentUpon>frmHotDogList.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmMain.resx">
-      <DependentUpon>frmMain.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\GUI Common\FrmMenuPrincipal.resx">
+      <DependentUpon>FrmMenuPrincipal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\frmMetodoPago.resx">
-      <DependentUpon>frmMetodoPago.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\Pedido\FrmPago.resx">
+      <DependentUpon>FrmPago.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\MainBoletos.resx">
+    <EmbeddedResource Include="Presentacion\Todas\MainBoletos.resx">
       <DependentUpon>MainBoletos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\pnlAbastecimiento.resx">
-      <DependentUpon>pnlAbastecimiento.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\Inventario\FrmPedidoAbastecimiento.resx">
+      <DependentUpon>FrmPedidoAbastecimiento.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\pnlInsumos.resx">
+    <EmbeddedResource Include="Presentacion\Todas\pnlInsumos.resx">
       <DependentUpon>pnlInsumos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\pnlComidas.resx">
+    <EmbeddedResource Include="Presentacion\Todas\pnlComidas.resx">
       <DependentUpon>pnlComidas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\pnlBebidas.resx">
+    <EmbeddedResource Include="Presentacion\Todas\pnlBebidas.resx">
       <DependentUpon>pnlBebidas.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -388,6 +424,7 @@
     <None Include="Resources\add%281%292.png" />
     <None Include="Resources\apps.png" />
     <None Include="Resources\icons8-cash-64.png" />
+    <None Include="Resources\icons8-minus-sign-96.png" />
     <Content Include="ZooZone_Ico.ico" />
   </ItemGroup>
   <ItemGroup>
@@ -402,7 +439,10 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Controladora\" />
+    <Folder Include="Negocio\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

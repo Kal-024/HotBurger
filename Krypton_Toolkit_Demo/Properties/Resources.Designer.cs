@@ -533,6 +533,16 @@ namespace Krypton_Toolkit_Demo.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_minus_sign_96 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-minus-sign-96", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_search_ios_16_70 {
             get {
                 object obj = ResourceManager.GetObject("icons8-search-ios-16-70", resourceCulture);

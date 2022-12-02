@@ -124,9 +124,6 @@
   <data name="Formales" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Formales.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="add(1)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\add(1)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="sign-error-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sign-error-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -138,9 +135,6 @@
   </data>
   <data name="Ensalada" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ensalada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Bebidas7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Bebidas7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="coca2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\coca2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -154,9 +148,6 @@
   <data name="San5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\San5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="coca5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\coca5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="San3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\San3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -166,17 +157,23 @@
   <data name="icons8-github-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-github-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-add-100(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-add-100(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Hamb6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Hamb6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="add(1)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\add(1)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="trash_can" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\trash_can.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Hamb5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Hamb5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hamb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hamb3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-add-100(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-add-100(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tex-Mex" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Tex-Mex.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -196,8 +193,11 @@
   <data name="Bebidas3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Bebidas3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Login - IS" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Login - IS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8-cash-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-cash-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bebidas1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bebidas1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Bebidas9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Bebidas9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -295,8 +295,8 @@
   <data name="btnFacturar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnFacturar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="coca3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\coca3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PicarCompartir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PicarCompartir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="add(1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\add(1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -310,14 +310,17 @@
   <data name="close-btn-demo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\close-btn-demo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="coca5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coca5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="add(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\add(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mc-yellw" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mc-yellw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Bebidas1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Bebidas1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="coca3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coca3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Bebidas4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Bebidas4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -325,8 +328,8 @@
   <data name="dish(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dish(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PicarCompartir" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PicarCompartir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Bebidas7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bebidas7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="btnFacturar(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnFacturar(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -334,8 +337,8 @@
   <data name="San1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\San1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Usability testing-amico" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Usability testing-amico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Login - IS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login - IS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Login - IS1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Login - IS1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -346,13 +349,13 @@
   <data name="sign_restaurant" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sign_restaurant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Hamb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Hamb3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Usability testing-amico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Usability testing-amico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="max-btn-demo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\max-btn-demo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-cash-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-cash-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8-minus-sign-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-minus-sign-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

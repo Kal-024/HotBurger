@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Krypton_Toolkit_Demo.Presentacion.Caja;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace Krypton_Toolkit_Demo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmLogin());
+            Application.Run(new FrmPedido());
         }
     }
 }
