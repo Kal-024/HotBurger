@@ -104,3 +104,5 @@ C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\De
 C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CopyComplete
 C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.exe
 C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmCambio.resources
+C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmAperturaCaja.resources

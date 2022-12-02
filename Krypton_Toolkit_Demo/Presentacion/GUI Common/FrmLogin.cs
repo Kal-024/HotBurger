@@ -1,4 +1,5 @@
 ﻿using ComponentFactory.Krypton.Toolkit;
+using Krypton_Toolkit_Demo.View;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -20,9 +21,10 @@ namespace Krypton_Toolkit_Demo
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            View.FrmMenuPrincipal main = new View.FrmMenuPrincipal();
-            main.Show();
+            FrmAperturaCaja aperturaCaja = new FrmAperturaCaja();
+            aperturaCaja.ShowDialog();
             this.Visible = false;
+            this.Close();
         }
     }
 }

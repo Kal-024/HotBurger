@@ -19,6 +19,7 @@ namespace Krypton_Toolkit_Demo.View
         public FrmMenuPrincipal()
         {
             InitializeComponent();
+            OpenChildFormPedido(new Presentacion.Caja.FrmPedido());
         }
 
         private void pcbReturn_Click(object sender, EventArgs e)
@@ -86,6 +87,7 @@ namespace Krypton_Toolkit_Demo.View
         }
 
         private Form activeForm = null;
+        private Form activeForms = null;
         private void OpenChildForm(Form childForm)
         {
             if (activeForm != null)
@@ -101,35 +103,32 @@ namespace Krypton_Toolkit_Demo.View
             childForm.BringToFront();
             childForm.Show();
         }
-        private void panel2_Click(object sender, EventArgs e)
-        {
-            OpenChildForm(new pnlComidas());
-            panel2.BorderStyle = BorderStyle.FixedSingle;
-            panel3.BorderStyle = BorderStyle.None;
-            panel7.BorderStyle = BorderStyle.None;
-        }
 
-        private void panel3_Click(object sender, EventArgs e)
+        private void OpenChildFormPedido(Form childForm)
         {
-            OpenChildForm(new pnlBebidas());
-            panel3.BorderStyle = BorderStyle.FixedSingle;
-            panel2.BorderStyle = BorderStyle.None;
-            panel7.BorderStyle = BorderStyle.None;
+            if (activeForms != null)
+            {
+                activeForms.Close();
+            }
+            activeForms = childForm;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            pnlFactura.Controls.Add(childForm);
+            pnlFactura.Tag = childForm;
+            childForm.BringToFront();
+            childForm.Show();
         }
-
-        private void panel6_Click(object sender, EventArgs e)
-        {
-            showMessage("Generando Reportes ...", 1500);
-            MainBoletos mainBoletos = new MainBoletos();
-            mainBoletos.ShowDialog();
-        }
-
-        private void panel7_Click(object sender, EventArgs e)
-        {
-            OpenChildForm(new pnlInsumos());
+        /*
+         OpenChildForm(new pnlInsumos());
             panel7.BorderStyle = BorderStyle.FixedSingle;
             panel2.BorderStyle = BorderStyle.None;
             panel3.BorderStyle = BorderStyle.None;
+         */
+
+        private void panel7_Click(object sender, EventArgs e)
+        {
+            
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
@@ -143,9 +142,27 @@ namespace Krypton_Toolkit_Demo.View
             MessageBox.Show("COMANDA ENVIADA A COCINA CON EXITO!!", "ASISTENTE - HOT BURGER", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-        private void label6_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
+            OpenChildForm(new pnlComidas());
+            panel2.BorderStyle = BorderStyle.FixedSingle;
+            panel3.BorderStyle = BorderStyle.None;
+            panel7.BorderStyle = BorderStyle.None;
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new pnlBebidas());
+            panel3.BorderStyle = BorderStyle.FixedSingle;
+            panel2.BorderStyle = BorderStyle.None;
+            panel7.BorderStyle = BorderStyle.None;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            showMessage("Generando Reportes ...", 1500);
+            MainBoletos mainBoletos = new MainBoletos();
+            mainBoletos.ShowDialog();
         }
     }
 }

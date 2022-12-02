@@ -28,5 +28,17 @@ namespace Krypton_Toolkit_Demo.View
         {
 
         }
+
+        private void FrmPedidoAbastecimiento_Load(object sender, EventArgs e)
+        {
+            AddCheckColumn(dataGridView2);
+        }
+
+        public static void AddCheckColumn(DataGridView dgv)
+        {
+            DataGridViewCheckBoxColumn chkCol = new DataGridViewCheckBoxColumn();
+            chkCol.Name = "Estado";
+            dgv.Columns.Add(chkCol);
+        }
     }
 }

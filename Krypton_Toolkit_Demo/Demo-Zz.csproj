@@ -74,6 +74,79 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controladora\Caja\ArqueoCajaServices.cs" />
+    <Compile Include="Controladora\Caja\CajaServices.cs" />
+    <Compile Include="Controladora\Caja\CuadreCajaServices.cs" />
+    <Compile Include="Controladora\Comanda\ReporteComandaServices.cs" />
+    <Compile Include="Controladora\Factura\ReporteFacturaServices.cs" />
+    <Compile Include="Controladora\Inventario\DetalleAbastecimientoServices.cs" />
+    <Compile Include="Controladora\Inventario\InventarioServices.cs" />
+    <Compile Include="Controladora\Inventario\PedidoAbastecimientoServices.cs" />
+    <Compile Include="Controladora\Inventario\ProveedorServices.cs" />
+    <Compile Include="Controladora\Pedido\InsumoServices.cs" />
+    <Compile Include="Controladora\Pedido\MenuServices.cs" />
+    <Compile Include="Controladora\Pedido\VentaServices.cs" />
+    <Compile Include="Controladora\ReporteInventario\ReporteInventarioServices.cs" />
+    <Compile Include="Controladora\ReporteVenta\ReporteVentaServices.cs" />
+    <Compile Include="Negocio\Dao\Dao.cs" />
+    <Compile Include="Negocio\Entities\Classes\Caja.cs" />
+    <Compile Include="Negocio\Entities\Classes\CInventario.cs" />
+    <Compile Include="Negocio\Entities\Classes\Menu.cs" />
+    <Compile Include="Negocio\Entities\Classes\PedidoAbastecimiento.cs" />
+    <Compile Include="Negocio\Entities\Classes\Proveedor.cs" />
+    <Compile Include="Negocio\Entities\Classes\Venta.cs" />
+    <Compile Include="Negocio\Entities\DataSetFactura.Designer.cs" />
+    <Compile Include="Negocio\Entities\DataSetFactura1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetFactura.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Entities\DataSetInventario.Designer.cs" />
+    <Compile Include="Negocio\Entities\DataSetInventario1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetInventario.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Entities\DataSetRVenta.Designer.cs" />
+    <Compile Include="Negocio\Entities\DataSetRVenta1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetRVenta.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Entities\Enum\Categoria.cs" />
+    <Compile Include="Negocio\Entities\Enum\EstadoPedido.cs" />
+    <Compile Include="Negocio\Entities\Enum\EstadoVenta.cs" />
+    <Compile Include="Negocio\Entities\Enum\TipoPago.cs" />
+    <Compile Include="Negocio\Implement\Caja\AbirCajaDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Caja\ArqueoDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Caja\CajaDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Caja\CuadreCajaDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Inventario\DetalleAbastecimientoDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Inventario\InventarioDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Inventario\PedidoAbastecimientoDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Inventario\ProveedorDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Pedido\InsumoImplement.cs" />
+    <Compile Include="Negocio\Implement\Pedido\MenuDaoImplement.cs" />
+    <Compile Include="Negocio\Implement\Pedido\VentaDaoImplement.cs" />
+    <Compile Include="Negocio\Interfaces\Caja\AbrirCajaDao.cs" />
+    <Compile Include="Negocio\Interfaces\Caja\CajaDao.cs" />
+    <Compile Include="Negocio\Interfaces\Caja\CierreCajaDao.cs" />
+    <Compile Include="Negocio\Interfaces\Caja\GenerarCuadreDao.cs" />
+    <Compile Include="Negocio\Interfaces\Inventario\DetalleAbastecimientoDao.cs" />
+    <Compile Include="Negocio\Interfaces\Inventario\InventarioDao.cs" />
+    <Compile Include="Negocio\Interfaces\Inventario\PedidoAbastecimientoDao.cs" />
+    <Compile Include="Negocio\Interfaces\Inventario\ProveedorDao.cs" />
+    <Compile Include="Negocio\Interfaces\Pedido\InsumoDao.cs" />
+    <Compile Include="Negocio\Interfaces\Pedido\MenuDao.cs" />
+    <Compile Include="Negocio\Interfaces\Pedido\VentaDao.cs" />
+    <Compile Include="Negocio\Util\ConexionDB.cs" />
+    <Compile Include="Negocio\Util\Usuario.cs" />
+    <Compile Include="Presentacion\Caja\FrmAperturaCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Caja\FrmAperturaCaja.Designer.cs">
+      <DependentUpon>FrmAperturaCaja.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentacion\Caja\FrmPedido.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +177,12 @@
     <Compile Include="Presentacion\Pedido\FrmComanda.Designer.cs">
       <DependentUpon>FrmComanda.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentacion\Pedido\FrmCambio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Pedido\FrmCambio.Designer.cs">
+      <DependentUpon>FrmCambio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Presentacion\Todas\frmBoletoProductos.cs">
@@ -112,10 +191,10 @@
     <Compile Include="Presentacion\Todas\frmBoletoProductos.Designer.cs">
       <DependentUpon>frmBoletoProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Presentacion\Todas\frmBoletoInventario.cs">
+    <Compile Include="Presentacion\Inventario\frmBoletoInventario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\Todas\frmBoletoInventario.Designer.cs">
+    <Compile Include="Presentacion\Inventario\frmBoletoInventario.Designer.cs">
       <DependentUpon>frmBoletoInventario.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\Todas\frmBurgerList.cs">
@@ -148,10 +227,10 @@
     <Compile Include="Presentacion\Todas\frmCocaColaInfo.Designer.cs">
       <DependentUpon>frmCocaColaInfo.cs</DependentUpon>
     </Compile>
-    <Compile Include="Presentacion\Todas\frmGestionPago.cs">
+    <Compile Include="Presentacion\Pedido\frmGestionPago.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\Todas\frmGestionPago.Designer.cs">
+    <Compile Include="Presentacion\Pedido\frmGestionPago.Designer.cs">
       <DependentUpon>frmGestionPago.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\Todas\frmSandwichesInfo.cs">
@@ -226,6 +305,9 @@
     <Compile Include="Presentacion\Todas\pnlBebidas.Designer.cs">
       <DependentUpon>pnlBebidas.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Presentacion\Caja\FrmAperturaCaja.resx">
+      <DependentUpon>FrmAperturaCaja.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Caja\FrmPedido.resx">
       <DependentUpon>FrmPedido.cs</DependentUpon>
     </EmbeddedResource>
@@ -241,6 +323,9 @@
     <EmbeddedResource Include="Presentacion\Pedido\FrmComanda.resx">
       <DependentUpon>FrmComanda.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Pedido\FrmCambio.resx">
+      <DependentUpon>FrmCambio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -254,7 +339,7 @@
     <EmbeddedResource Include="Presentacion\Todas\frmBoletoProductos.resx">
       <DependentUpon>frmBoletoProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Presentacion\Todas\frmBoletoInventario.resx">
+    <EmbeddedResource Include="Presentacion\Inventario\frmBoletoInventario.resx">
       <DependentUpon>frmBoletoInventario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Todas\frmBurgerList.resx">
@@ -272,7 +357,7 @@
     <EmbeddedResource Include="Presentacion\Todas\frmCocaColaInfo.resx">
       <DependentUpon>frmCocaColaInfo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Presentacion\Todas\frmGestionPago.resx">
+    <EmbeddedResource Include="Presentacion\Pedido\frmGestionPago.resx">
       <DependentUpon>frmGestionPago.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Todas\frmSandwichesInfo.resx">
@@ -311,6 +396,39 @@
     <EmbeddedResource Include="Presentacion\Todas\pnlBebidas.resx">
       <DependentUpon>pnlBebidas.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="Negocio\Entities\DataSetFactura.xsc">
+      <DependentUpon>DataSetFactura.xsd</DependentUpon>
+    </None>
+    <None Include="Negocio\Entities\DataSetFactura.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetFactura1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Negocio\Entities\DataSetFactura.xss">
+      <DependentUpon>DataSetFactura.xsd</DependentUpon>
+    </None>
+    <None Include="Negocio\Entities\DataSetInventario.xsc">
+      <DependentUpon>DataSetInventario.xsd</DependentUpon>
+    </None>
+    <None Include="Negocio\Entities\DataSetInventario.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetInventario1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Negocio\Entities\DataSetInventario.xss">
+      <DependentUpon>DataSetInventario.xsd</DependentUpon>
+    </None>
+    <None Include="Negocio\Entities\DataSetRVenta.xsc">
+      <DependentUpon>DataSetRVenta.xsd</DependentUpon>
+    </None>
+    <None Include="Negocio\Entities\DataSetRVenta.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetRVenta1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Negocio\Entities\DataSetRVenta.xss">
+      <DependentUpon>DataSetRVenta.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
