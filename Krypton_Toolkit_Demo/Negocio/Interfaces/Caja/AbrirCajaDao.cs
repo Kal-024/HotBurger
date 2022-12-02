@@ -3,7 +3,7 @@ using System;
 
 namespace Krypton_Toolkit_Demo.Negocio.Interfaces
 {
-    interface AbrirCajaDao<T> : Dao<T>
+    interface AbrirCajaDao<T> : IDao<T>
     {
         DateTime getDateTime();
     }

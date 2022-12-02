@@ -2,6 +2,7 @@
 using Krypton_Toolkit_Demo.Negocio.Interfaces.Inventario;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,27 +11,28 @@ namespace Krypton_Toolkit_Demo.Negocio.Implement.Inventario
 {
     internal class PedidoAbastecimientoDaoImplement : PedidoAbastecimientoDao<PedidoAbastecimiento>
     {
-        public bool create(PedidoAbastecimiento entity)
+        public bool Create(PedidoAbastecimiento entity)
         {
             throw new NotImplementedException();
         }
 
-        public bool delete(PedidoAbastecimiento entity)
+        public bool Delete(PedidoAbastecimiento entity)
         {
             throw new NotImplementedException();
         }
 
-        public List<PedidoAbastecimiento> getAll()
+     
+        public DataTable GetAll()
         {
             throw new NotImplementedException();
         }
 
-        public PedidoAbastecimiento getById(int id)
+        public PedidoAbastecimiento GetById(int id)
         {
             throw new NotImplementedException();
         }
 
-        public bool update(PedidoAbastecimiento entity)
+        public bool Update(PedidoAbastecimiento entity)
         {
             throw new NotImplementedException();
         }

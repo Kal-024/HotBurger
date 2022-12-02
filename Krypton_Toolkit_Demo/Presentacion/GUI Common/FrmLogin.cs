@@ -31,7 +31,7 @@ namespace Krypton_Toolkit_Demo
             }
             else
             {
-                MessageBox.Show("Credenciales incorrectas: " + txtUser.Text + " " + txtPassword.Text);
+                MessageBox.Show("Credenciales incorrectas");
             }
             
            

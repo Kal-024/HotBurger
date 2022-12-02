@@ -1,32 +1,51 @@
 ﻿using Krypton_Toolkit_Demo.Negocio.Entities.Classes;
 using Krypton_Toolkit_Demo.Negocio.Interfaces;
-using System.Collections.Generic;
+using Krypton_Toolkit_Demo.Negocio.Util;
+using System;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace Krypton_Toolkit_Demo.Negocio.Implement.Pedido
 {
     internal class VentaDaoImplement : VentaDao<Venta>
     {
-        public bool create(Venta entity)
+        public bool Create(Venta entity)
         {
             throw new System.NotImplementedException();
         }
 
-        public bool delete(Venta entity)
+        public bool Delete(Venta entity)
         {
             throw new System.NotImplementedException();
         }
 
-        public List<Venta> getAll()
+       
+        public DataTable GetAll()
+        {
+           
+            throw new System.NotImplementedException();
+        }
+
+        public Venta GetById(int id)
         {
             throw new System.NotImplementedException();
         }
 
-        public Venta getById(int id)
+        public  DataTable GetVentaByDate(DateTime d)
         {
-            throw new System.NotImplementedException();
+            DataTable dt = new DataTable();
+            ConexionDB conexion = ConexionDB.getInstance("obtenerFacturarDia");
+
+
+            SqlParameter ParFecha = new SqlParameter("@fecha", SqlDbType.DateTime);
+            ParFecha.Value = d;
+
+            conexion.sqlCommand.Parameters.Add(ParFecha);
+            conexion.conectarPLectura(dt);
+            return dt;
         }
 
-        public bool update(Venta entity)
+        public bool Update(Venta entity)
         {
             throw new System.NotImplementedException();
         }

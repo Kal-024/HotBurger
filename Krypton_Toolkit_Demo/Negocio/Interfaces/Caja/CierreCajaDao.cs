@@ -2,7 +2,7 @@
 
 namespace Krypton_Toolkit_Demo.Negocio.Interfaces
 {
-    internal interface CierreCajaDao<T>: Dao<T>
+    internal interface CierreCajaDao<T>: IDao<T>
     {
     }
 }

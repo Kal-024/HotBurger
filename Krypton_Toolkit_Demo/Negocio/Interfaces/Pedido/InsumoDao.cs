@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Krypton_Toolkit_Demo.Negocio.Interfaces
 {
-    internal interface InsumoDao<T>: Dao<T>
+    internal interface InsumoDao<T>: IDao<T>
     {
         List<T> getAllInsumos();
         Usuario getUsuario();

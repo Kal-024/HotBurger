@@ -1,32 +1,35 @@
 ﻿using Krypton_Toolkit_Demo.Negocio.Entities.Classes;
 using Krypton_Toolkit_Demo.Negocio.Interfaces;
 using System.Collections.Generic;
+using System.Data;
 
 namespace Krypton_Toolkit_Demo.Negocio.Implement
 {
     internal class ArqueoDaoImplement : CierreCajaDao<Caja>
     {
-        public bool create(Caja entity)
+        public bool Create(Caja entity)
         {
             throw new System.NotImplementedException();
         }
 
-        public bool delete(Caja entity)
+        public bool Delete(Caja entity)
         {
             throw new System.NotImplementedException();
         }
 
-        public List<Caja> getAll()
+      
+
+        public DataTable GetAll()
         {
             throw new System.NotImplementedException();
         }
 
-        public Caja getById(int id)
+        public Caja GetById(int id)
         {
             throw new System.NotImplementedException();
         }
 
-        public bool update(Caja entity)
+        public bool Update(Caja entity)
         {
             throw new System.NotImplementedException();
         }

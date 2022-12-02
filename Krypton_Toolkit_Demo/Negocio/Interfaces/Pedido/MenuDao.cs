@@ -2,7 +2,7 @@
 
 namespace Krypton_Toolkit_Demo.Negocio.Interfaces
 {
-    internal interface MenuDao<T> : Dao<T>
+    internal interface MenuDao<T> : IDao<T>
     {
         bool updateInventario(int cantidad);
     }

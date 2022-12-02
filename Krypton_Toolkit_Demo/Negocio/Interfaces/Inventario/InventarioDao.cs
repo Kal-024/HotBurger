@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Krypton_Toolkit_Demo.Negocio.Interfaces.Inventario
 {
-    internal interface InventarioDao<T>: Dao<T>
+    internal interface InventarioDao<T>: IDao<T>
     {
     }
 }

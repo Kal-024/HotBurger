@@ -4,6 +4,7 @@ using Krypton_Toolkit_Demo.Negocio.Interfaces;
 using Krypton_Toolkit_Demo.Negocio.Util;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,12 +13,17 @@ namespace Krypton_Toolkit_Demo.Negocio.Implement.Pedido
 {
     internal class InsumoImplement : InsumoDao<CInventario>
     {
-        public bool create(CInventario entity)
+        public bool Create(CInventario entity)
         {
             throw new NotImplementedException();
         }
 
-        public bool delete(CInventario entity)
+        public bool Delete(CInventario entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public DataTable GetAll()
         {
             throw new NotImplementedException();
         }
@@ -27,22 +33,18 @@ namespace Krypton_Toolkit_Demo.Negocio.Implement.Pedido
             throw new NotImplementedException();
         }
 
-        public bool update(CInventario entity)
+        public bool Update(CInventario entity)
         {
             throw new NotImplementedException();
         }
 
-        List<CInventario> Dao<CInventario>.getAll()
-        {
-            throw new NotImplementedException();
-        }
-
+       
         List<CInventario> InsumoDao<CInventario>.getAllInsumos()
         {
             throw new NotImplementedException();
         }
 
-        CInventario Dao<CInventario>.getById(int id)
+        CInventario IDao<CInventario>.GetById(int id)
         {
             throw new NotImplementedException();
         }

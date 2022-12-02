@@ -2,27 +2,29 @@
 using Krypton_Toolkit_Demo.Negocio.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Data;
 
 namespace Krypton_Toolkit_Demo.Negocio.Implement
 {
     internal class AbirCajaDaoImplement : AbrirCajaDao<Caja>
     {
-        public bool create(Caja entity)
+        public bool Create(Caja entity)
         {
             throw new NotImplementedException();
         }
 
-        public bool delete(Caja entity)
+        public bool Delete(Caja entity)
         {
             throw new NotImplementedException();
         }
 
-        public List<Caja> getAll()
+
+        public DataTable GetAll()
         {
             throw new NotImplementedException();
         }
 
-        public Caja getById(int id)
+        public Caja GetById(int id)
         {
             throw new NotImplementedException();
         }
@@ -32,7 +34,7 @@ namespace Krypton_Toolkit_Demo.Negocio.Implement
             throw new NotImplementedException();
         }
 
-        public bool update(Caja entity)
+        public bool Update(Caja entity)
         {
             throw new NotImplementedException();
         }

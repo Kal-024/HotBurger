@@ -37,12 +37,19 @@ namespace Krypton_Toolkit_Demo.Negocio.Util
             return conexionDB;
         }
 
-        public void conectar(DataTable dt)
+        public void conectarPLectura(DataTable dt)
         {
            sqlConnection.Open();
            sqlDataAdapter.Fill(dt);
            desconectar();
+        }
 
+        public string  ConectarPEscritura()
+        {
+            sqlConnection.Open();
+            string respuesta = sqlDataAdapter.SelectCommand.ExecuteNonQuery() == 0 ? "No se puede guardar registro" : "OK";
+            desconectar();
+            return respuesta;
         }
 
         void desconectar()

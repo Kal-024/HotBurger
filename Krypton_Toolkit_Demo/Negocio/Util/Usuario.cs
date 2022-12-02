@@ -42,7 +42,7 @@ namespace Krypton_Toolkit_Demo.Negocio.Util
                 conexion.sqlCommand.Parameters.Add(ParUsername);
                 conexion.sqlCommand.Parameters.Add(ParPassword);
 
-                conexion.conectar(dt);
+                conexion.conectarPLectura(dt);
 
                 if(dt.Rows.Count > 0)
                 {
