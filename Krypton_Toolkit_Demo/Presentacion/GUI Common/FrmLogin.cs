@@ -22,8 +22,9 @@ namespace Krypton_Toolkit_Demo
         private void btnLogin_Click(object sender, EventArgs e)
         {
             FrmAperturaCaja aperturaCaja = new FrmAperturaCaja();
+            this.Hide();
             aperturaCaja.ShowDialog();
-            this.Visible = false;
+            //this.Visible = false;
             this.Close();
         }
     }

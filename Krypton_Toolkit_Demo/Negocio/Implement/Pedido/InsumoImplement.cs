@@ -1,4 +1,5 @@
-﻿using Krypton_Toolkit_Demo.Negocio.Entities.Classes;
+﻿using Krypton_Toolkit_Demo.Negocio.Dao;
+using Krypton_Toolkit_Demo.Negocio.Entities.Classes;
 using Krypton_Toolkit_Demo.Negocio.Interfaces;
 using Krypton_Toolkit_Demo.Negocio.Util;
 using System;
@@ -9,29 +10,14 @@ using System.Threading.Tasks;
 
 namespace Krypton_Toolkit_Demo.Negocio.Implement.Pedido
 {
-    internal class InsumoImplement : InsumoDao<Inventario>
+    internal class InsumoImplement : InsumoDao<CInventario>
     {
-        public bool create(Inventario entity)
+        public bool create(CInventario entity)
         {
             throw new NotImplementedException();
         }
 
-        public bool delete(Inventario entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Inventario> getAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Inventario> getAllInsumos()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Inventario getById(int id)
+        public bool delete(CInventario entity)
         {
             throw new NotImplementedException();
         }
@@ -41,7 +27,22 @@ namespace Krypton_Toolkit_Demo.Negocio.Implement.Pedido
             throw new NotImplementedException();
         }
 
-        public bool update(Inventario entity)
+        public bool update(CInventario entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        List<CInventario> Dao<CInventario>.getAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        List<CInventario> InsumoDao<CInventario>.getAllInsumos()
+        {
+            throw new NotImplementedException();
+        }
+
+        CInventario Dao<CInventario>.getById(int id)
         {
             throw new NotImplementedException();
         }

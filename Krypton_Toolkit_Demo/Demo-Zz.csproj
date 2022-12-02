@@ -95,24 +95,6 @@
     <Compile Include="Negocio\Entities\Classes\PedidoAbastecimiento.cs" />
     <Compile Include="Negocio\Entities\Classes\Proveedor.cs" />
     <Compile Include="Negocio\Entities\Classes\Venta.cs" />
-    <Compile Include="Negocio\Entities\DataSetFactura.Designer.cs" />
-    <Compile Include="Negocio\Entities\DataSetFactura1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetFactura.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="Negocio\Entities\DataSetInventario.Designer.cs" />
-    <Compile Include="Negocio\Entities\DataSetInventario1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetInventario.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="Negocio\Entities\DataSetRVenta.Designer.cs" />
-    <Compile Include="Negocio\Entities\DataSetRVenta1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetRVenta.xsd</DependentUpon>
-    </Compile>
     <Compile Include="Negocio\Entities\Enum\Categoria.cs" />
     <Compile Include="Negocio\Entities\Enum\EstadoPedido.cs" />
     <Compile Include="Negocio\Entities\Enum\EstadoVenta.cs" />
@@ -396,39 +378,6 @@
     <EmbeddedResource Include="Presentacion\Todas\pnlBebidas.resx">
       <DependentUpon>pnlBebidas.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Negocio\Entities\DataSetFactura.xsc">
-      <DependentUpon>DataSetFactura.xsd</DependentUpon>
-    </None>
-    <None Include="Negocio\Entities\DataSetFactura.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetFactura1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Negocio\Entities\DataSetFactura.xss">
-      <DependentUpon>DataSetFactura.xsd</DependentUpon>
-    </None>
-    <None Include="Negocio\Entities\DataSetInventario.xsc">
-      <DependentUpon>DataSetInventario.xsd</DependentUpon>
-    </None>
-    <None Include="Negocio\Entities\DataSetInventario.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetInventario1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Negocio\Entities\DataSetInventario.xss">
-      <DependentUpon>DataSetInventario.xsd</DependentUpon>
-    </None>
-    <None Include="Negocio\Entities\DataSetRVenta.xsc">
-      <DependentUpon>DataSetRVenta.xsd</DependentUpon>
-    </None>
-    <None Include="Negocio\Entities\DataSetRVenta.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetRVenta1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Negocio\Entities\DataSetRVenta.xss">
-      <DependentUpon>DataSetRVenta.xsd</DependentUpon>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

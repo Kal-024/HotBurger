@@ -106,3 +106,41 @@ C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\De
 C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.pdb
 C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmCambio.resources
 C:\Users\Usuario\OneDrive\Escritorio\Demo Hot Burger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmAperturaCaja.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.AssemblyReference.cache
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmAperturaCaja.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.Presentacion.Caja.FrmPedido.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmPedido.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmProveedores.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.frmLogin.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmComanda.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmCambio.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.Properties.Resources.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBoletoProductos.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBoletoInventario.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBurgerList.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmBoletoCierre.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmFactura.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmHambuerguesaInfo.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmCocaColaInfo.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmGestionPago.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmSandwichesInfo.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmHotDogInfo.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmCocaColaList.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmSandwichesList.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.frmHotDogList.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmMenuPrincipal.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmPago.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.MainBoletos.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.FrmPedidoAbastecimiento.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.pnlInsumos.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.pnlComidas.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Krypton_Toolkit_Demo.View.pnlBebidas.resources
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.GenerateResource.cache
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe.config
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.exe
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\bin\Debug\Demo-Zz.pdb
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.csproj.CopyComplete
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.exe
+C:\Users\luisa\Desktop\Kal-024\HotBurger\Krypton_Toolkit_Demo\obj\Debug\Demo-Zz.pdb

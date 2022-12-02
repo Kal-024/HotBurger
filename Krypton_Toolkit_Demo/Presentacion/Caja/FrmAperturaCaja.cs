@@ -24,8 +24,9 @@ namespace Krypton_Toolkit_Demo.View
         private void kryptonButton1_Click(object sender, EventArgs e)
         {
             FrmMenuPrincipal principal = new FrmMenuPrincipal();
+            this.Hide();
             principal.ShowDialog();
-            this.Visible = false;
+            //this.Visible = false;
             this.Close();
         }
     }
