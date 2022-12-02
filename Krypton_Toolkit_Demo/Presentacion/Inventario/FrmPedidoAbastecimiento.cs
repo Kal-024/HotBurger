@@ -37,7 +37,7 @@ namespace Krypton_Toolkit_Demo.View
         public static void AddCheckColumn(DataGridView dgv)
         {
             DataGridViewCheckBoxColumn chkCol = new DataGridViewCheckBoxColumn();
-            chkCol.Name = "Estado";
+            chkCol.Name = "Detalle";
             dgv.Columns.Add(chkCol);
         }
     }

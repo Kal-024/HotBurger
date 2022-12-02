@@ -71,6 +71,11 @@ namespace Krypton_Toolkit_Demo.Presentacion.Caja
             pago.ShowDialog();
         }
 
+        private void pictureBox15_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void pictureBox1_Click(object sender, EventArgs e)
         {            
             minusb = b - 1;

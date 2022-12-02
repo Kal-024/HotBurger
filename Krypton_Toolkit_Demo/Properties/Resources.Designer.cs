@@ -503,6 +503,16 @@ namespace Krypton_Toolkit_Demo.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_buy_for_cash_100 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-buy-for-cash-100", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_cash_64 {
             get {
                 object obj = ResourceManager.GetObject("icons8-cash-64", resourceCulture);
@@ -536,6 +546,16 @@ namespace Krypton_Toolkit_Demo.Properties {
         internal static System.Drawing.Bitmap icons8_minus_sign_96 {
             get {
                 object obj = ResourceManager.GetObject("icons8-minus-sign-96", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_purchase_order_100 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-purchase-order-100", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

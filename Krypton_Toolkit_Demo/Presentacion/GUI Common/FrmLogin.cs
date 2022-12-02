@@ -22,19 +22,22 @@ namespace Krypton_Toolkit_Demo
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if(Usuario.logIn(txtUser.Text, txtPassword.Text))
-            {
-                FrmAperturaCaja aperturaCaja = new FrmAperturaCaja();
-                this.Hide();
-                aperturaCaja.ShowDialog();
-                this.Close();
-            }
-            else
-            {
-                MessageBox.Show("Credenciales incorrectas");
-            }
-            
-           
+            //if(Usuario.logIn(txtUser.Text, txtPassword.Text))
+            //{
+            //    FrmAperturaCaja aperturaCaja = new FrmAperturaCaja();
+            //    this.Hide();
+            //    aperturaCaja.ShowDialog();
+            //    this.Close();
+            //}
+            //else
+            //{
+            //    MessageBox.Show("Credenciales incorrectas");
+            //}
+
+            FrmAperturaCaja aperturaCaja = new FrmAperturaCaja();
+            this.Hide();
+            aperturaCaja.ShowDialog();
+            this.Close();
         }
     }
 }

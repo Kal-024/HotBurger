@@ -133,6 +133,9 @@
   <data name="corte" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\corte.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Usability testing-amico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Usability testing-amico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Ensalada" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ensalada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -169,9 +172,6 @@
   <data name="Hamb5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Hamb5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Hamb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Hamb3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="icons8-add-100(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-add-100(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -186,6 +186,9 @@
   </data>
   <data name="Reportes Varios - Hot Burger1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Reportes Varios - Hot Burger1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-purchase-order-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-purchase-order-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="arrow_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\arrow_left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -243,6 +246,9 @@
   </data>
   <data name="Bebidas10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Bebidas10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-minus-sign-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-minus-sign-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Reportes Varios - Hot Burger" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Reportes Varios - Hot Burger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -349,13 +355,13 @@
   <data name="sign_restaurant" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sign_restaurant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Usability testing-amico" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Usability testing-amico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Hamb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hamb3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="max-btn-demo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\max-btn-demo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-minus-sign-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-minus-sign-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8-buy-for-cash-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-buy-for-cash-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

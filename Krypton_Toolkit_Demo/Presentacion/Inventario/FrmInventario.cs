@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Krypton_Toolkit_Demo.View
 {
-    public partial class FrmPedido : KryptonForm
+    public partial class FrmInventario : KryptonForm
     {
-        public FrmPedido()
+        public FrmInventario()
         {
             InitializeComponent();
         }

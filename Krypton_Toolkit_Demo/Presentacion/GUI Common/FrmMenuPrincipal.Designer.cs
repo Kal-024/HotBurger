@@ -33,56 +33,51 @@
             this.pnlFactura = new System.Windows.Forms.Panel();
             this.pnlUp = new System.Windows.Forms.Panel();
             this.txtUser = new ComponentFactory.Krypton.Toolkit.KryptonTextBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pcbReturn = new System.Windows.Forms.PictureBox();
             this.pnlLeft = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.button6 = new System.Windows.Forms.Button();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.button5 = new System.Windows.Forms.Button();
             this.panel7 = new System.Windows.Forms.Panel();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.button4 = new System.Windows.Forms.Button();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button3 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.pnlCategoria = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.pnlCenter = new System.Windows.Forms.Panel();
             this.pnlMenus = new System.Windows.Forms.Panel();
             this.DesignModel = new ComponentFactory.Krypton.Toolkit.KryptonPalette(this.components);
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.button5 = new System.Windows.Forms.Button();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.button6 = new System.Windows.Forms.Button();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.button7 = new System.Windows.Forms.Button();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pcbReturn = new System.Windows.Forms.PictureBox();
             this.pnlRight.SuspendLayout();
             this.pnlUp.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pcbReturn)).BeginInit();
             this.pnlLeft.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.panel1.SuspendLayout();
             this.panel7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.panel6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.pnlCategoria.SuspendLayout();
             this.pnlCenter.SuspendLayout();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            this.panel5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbReturn)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlRight
@@ -135,33 +130,9 @@
             this.txtUser.StateCommon.Content.Padding = new System.Windows.Forms.Padding(10, 0, 10, 0);
             this.txtUser.TabIndex = 21;
             // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox2.Image = global::Krypton_Toolkit_Demo.Properties.Resources.zoom;
-            this.pictureBox2.Location = new System.Drawing.Point(345, 16);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(40, 40);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 1;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pcbReturn
-            // 
-            this.pcbReturn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pcbReturn.Image = global::Krypton_Toolkit_Demo.Properties.Resources.arrow_left;
-            this.pcbReturn.Location = new System.Drawing.Point(3, 10);
-            this.pcbReturn.Name = "pcbReturn";
-            this.pcbReturn.Size = new System.Drawing.Size(60, 60);
-            this.pcbReturn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pcbReturn.TabIndex = 0;
-            this.pcbReturn.TabStop = false;
-            this.pcbReturn.Click += new System.EventHandler(this.pcbReturn_Click);
-            // 
             // pnlLeft
             // 
             this.pnlLeft.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnlLeft.Controls.Add(this.panel5);
             this.pnlLeft.Controls.Add(this.panel4);
             this.pnlLeft.Controls.Add(this.panel1);
             this.pnlLeft.Controls.Add(this.panel7);
@@ -175,6 +146,53 @@
             this.pnlLeft.Size = new System.Drawing.Size(143, 605);
             this.pnlLeft.TabIndex = 2;
             // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.Color.White;
+            this.panel4.Controls.Add(this.button6);
+            this.panel4.Controls.Add(this.pictureBox7);
+            this.panel4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel4.Location = new System.Drawing.Point(0, 324);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(141, 50);
+            this.panel4.TabIndex = 5;
+            // 
+            // button6
+            // 
+            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.button6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
+            this.button6.Location = new System.Drawing.Point(48, 0);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(93, 50);
+            this.button6.TabIndex = 4;
+            this.button6.Text = "Caja";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.button5);
+            this.panel1.Controls.Add(this.pictureBox6);
+            this.panel1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 274);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(141, 50);
+            this.panel1.TabIndex = 4;
+            // 
+            // button5
+            // 
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
+            this.button5.Location = new System.Drawing.Point(48, 0);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(93, 50);
+            this.button5.TabIndex = 4;
+            this.button5.Text = "Gestión Caja";
+            this.button5.UseVisualStyleBackColor = true;
+            // 
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.White;
@@ -187,15 +205,17 @@
             this.panel7.Size = new System.Drawing.Size(141, 50);
             this.panel7.TabIndex = 3;
             // 
-            // pictureBox5
+            // button4
             // 
-            this.pictureBox5.Image = global::Krypton_Toolkit_Demo.Properties.Resources.add_1_1;
-            this.pictureBox5.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 0;
-            this.pictureBox5.TabStop = false;
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
+            this.button4.Location = new System.Drawing.Point(48, 0);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(93, 50);
+            this.button4.TabIndex = 4;
+            this.button4.Text = "Inventa -  rio";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // panel6
             // 
@@ -209,15 +229,17 @@
             this.panel6.Size = new System.Drawing.Size(141, 50);
             this.panel6.TabIndex = 2;
             // 
-            // pictureBox1
+            // button3
             // 
-            this.pictureBox1.Image = global::Krypton_Toolkit_Demo.Properties.Resources.corte;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
+            this.button3.Location = new System.Drawing.Point(48, 0);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(93, 50);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "Boleto de Caja";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // panel3
             // 
@@ -231,15 +253,17 @@
             this.panel3.Size = new System.Drawing.Size(141, 50);
             this.panel3.TabIndex = 0;
             // 
-            // pictureBox4
+            // button2
             // 
-            this.pictureBox4.Image = global::Krypton_Toolkit_Demo.Properties.Resources.wine_cup;
-            this.pictureBox4.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 0;
-            this.pictureBox4.TabStop = false;
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
+            this.button2.Location = new System.Drawing.Point(48, 0);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(93, 50);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "Bebidas";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // panel2
             // 
@@ -253,15 +277,17 @@
             this.panel2.Size = new System.Drawing.Size(141, 50);
             this.panel2.TabIndex = 1;
             // 
-            // pictureBox3
+            // button1
             // 
-            this.pictureBox3.Image = global::Krypton_Toolkit_Demo.Properties.Resources.sign_restaurant;
-            this.pictureBox3.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 0;
-            this.pictureBox3.TabStop = false;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
+            this.button1.Location = new System.Drawing.Point(48, 0);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(93, 50);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Comidas";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // pnlCategoria
             // 
@@ -409,75 +435,15 @@
             this.DesignModel.HeaderStyles.HeaderForm.StateCommon.ButtonEdgeInset = 10;
             this.DesignModel.HeaderStyles.HeaderForm.StateCommon.Content.Padding = new System.Windows.Forms.Padding(10, -1, -1, -1);
             // 
-            // button1
+            // pictureBox7
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
-            this.button1.Location = new System.Drawing.Point(48, 0);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(93, 50);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Comidas";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
-            this.button2.Location = new System.Drawing.Point(48, 0);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(93, 50);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Bebidas";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button3
-            // 
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
-            this.button3.Location = new System.Drawing.Point(48, 0);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(93, 50);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "Boleto de Caja";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // button4
-            // 
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
-            this.button4.Location = new System.Drawing.Point(48, 0);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(93, 50);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "Inventa -  rio";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.Controls.Add(this.button5);
-            this.panel1.Controls.Add(this.pictureBox6);
-            this.panel1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel1.Location = new System.Drawing.Point(0, 274);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(141, 50);
-            this.panel1.TabIndex = 4;
-            // 
-            // button5
-            // 
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
-            this.button5.Location = new System.Drawing.Point(48, 0);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(93, 50);
-            this.button5.TabIndex = 4;
-            this.button5.Text = "Gestión Caja";
-            this.button5.UseVisualStyleBackColor = true;
+            this.pictureBox7.Image = global::Krypton_Toolkit_Demo.Properties.Resources.icons8_buy_for_cash_100;
+            this.pictureBox7.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox7.TabIndex = 0;
+            this.pictureBox7.TabStop = false;
             // 
             // pictureBox6
             // 
@@ -489,71 +455,68 @@
             this.pictureBox6.TabIndex = 0;
             this.pictureBox6.TabStop = false;
             // 
-            // panel4
+            // pictureBox5
             // 
-            this.panel4.BackColor = System.Drawing.Color.White;
-            this.panel4.Controls.Add(this.button6);
-            this.panel4.Controls.Add(this.pictureBox7);
-            this.panel4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel4.Location = new System.Drawing.Point(0, 324);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(141, 50);
-            this.panel4.TabIndex = 5;
+            this.pictureBox5.Image = global::Krypton_Toolkit_Demo.Properties.Resources.add_1_1;
+            this.pictureBox5.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 0;
+            this.pictureBox5.TabStop = false;
             // 
-            // button6
+            // pictureBox1
             // 
-            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.button6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
-            this.button6.Location = new System.Drawing.Point(48, 0);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(93, 50);
-            this.button6.TabIndex = 4;
-            this.button6.Text = "Caja";
-            this.button6.UseVisualStyleBackColor = true;
+            this.pictureBox1.Image = global::Krypton_Toolkit_Demo.Properties.Resources.corte;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
-            // pictureBox7
+            // pictureBox4
             // 
-            this.pictureBox7.Image = global::Krypton_Toolkit_Demo.Properties.Resources.add_1_1;
-            this.pictureBox7.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(42, 50);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox7.TabIndex = 0;
-            this.pictureBox7.TabStop = false;
+            this.pictureBox4.Image = global::Krypton_Toolkit_Demo.Properties.Resources.wine_cup;
+            this.pictureBox4.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 0;
+            this.pictureBox4.TabStop = false;
             // 
-            // panel5
+            // pictureBox3
             // 
-            this.panel5.BackColor = System.Drawing.Color.White;
-            this.panel5.Controls.Add(this.button7);
-            this.panel5.Controls.Add(this.pictureBox8);
-            this.panel5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel5.Location = new System.Drawing.Point(0, 374);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(141, 50);
-            this.panel5.TabIndex = 6;
+            this.pictureBox3.Image = global::Krypton_Toolkit_Demo.Properties.Resources.sign_restaurant;
+            this.pictureBox3.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 0;
+            this.pictureBox3.TabStop = false;
             // 
-            // button7
+            // pictureBox2
             // 
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.button7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
-            this.button7.Location = new System.Drawing.Point(48, 0);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(93, 50);
-            this.button7.TabIndex = 4;
-            this.button7.Text = "Inventa -  rio";
-            this.button7.UseVisualStyleBackColor = true;
+            this.pictureBox2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox2.Image = global::Krypton_Toolkit_Demo.Properties.Resources.zoom;
+            this.pictureBox2.Location = new System.Drawing.Point(345, 16);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(40, 40);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 1;
+            this.pictureBox2.TabStop = false;
             // 
-            // pictureBox8
+            // pcbReturn
             // 
-            this.pictureBox8.Image = global::Krypton_Toolkit_Demo.Properties.Resources.add_1_1;
-            this.pictureBox8.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(42, 50);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox8.TabIndex = 0;
-            this.pictureBox8.TabStop = false;
+            this.pcbReturn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pcbReturn.Image = global::Krypton_Toolkit_Demo.Properties.Resources.arrow_left;
+            this.pcbReturn.Location = new System.Drawing.Point(3, 10);
+            this.pcbReturn.Name = "pcbReturn";
+            this.pcbReturn.Size = new System.Drawing.Size(60, 60);
+            this.pcbReturn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pcbReturn.TabIndex = 0;
+            this.pcbReturn.TabStop = false;
+            this.pcbReturn.Click += new System.EventHandler(this.pcbReturn_Click);
             // 
             // FrmMenuPrincipal
             // 
@@ -572,26 +535,24 @@
             this.pnlRight.ResumeLayout(false);
             this.pnlUp.ResumeLayout(false);
             this.pnlUp.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pcbReturn)).EndInit();
             this.pnlLeft.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
             this.panel7.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.panel6.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel3.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.pnlCategoria.ResumeLayout(false);
             this.pnlCategoria.PerformLayout();
             this.pnlCenter.ResumeLayout(false);
-            this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            this.panel4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            this.panel5.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbReturn)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -625,9 +586,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.PictureBox pictureBox7;

@@ -164,5 +164,16 @@ namespace Krypton_Toolkit_Demo.View
             MainBoletos mainBoletos = new MainBoletos();
             mainBoletos.ShowDialog();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            FrmCaja caja = new FrmCaja();
+            caja.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new FrmInventario());
+        }
     }
 }

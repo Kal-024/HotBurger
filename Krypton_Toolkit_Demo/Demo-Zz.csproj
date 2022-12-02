@@ -123,6 +123,12 @@
     <Compile Include="Negocio\Interfaces\Pedido\VentaDao.cs" />
     <Compile Include="Negocio\Util\ConexionDB.cs" />
     <Compile Include="Negocio\Util\Usuario.cs" />
+    <Compile Include="Presentacion\Caja\FrmCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Caja\FrmCaja.Designer.cs">
+      <DependentUpon>FrmCaja.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentacion\Caja\FrmAperturaCaja.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -287,6 +293,9 @@
     <Compile Include="Presentacion\Todas\pnlBebidas.Designer.cs">
       <DependentUpon>pnlBebidas.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Presentacion\Caja\FrmCaja.resx">
+      <DependentUpon>FrmCaja.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Caja\FrmAperturaCaja.resx">
       <DependentUpon>FrmAperturaCaja.cs</DependentUpon>
     </EmbeddedResource>
@@ -492,6 +501,8 @@
     <None Include="Resources\apps.png" />
     <None Include="Resources\icons8-cash-64.png" />
     <None Include="Resources\icons8-minus-sign-96.png" />
+    <None Include="Resources\icons8-purchase-order-100.png" />
+    <None Include="Resources\icons8-buy-for-cash-100.png" />
     <Content Include="ZooZone_Ico.ico" />
   </ItemGroup>
   <ItemGroup>

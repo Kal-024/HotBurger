@@ -1,6 +1,6 @@
 ﻿namespace Krypton_Toolkit_Demo.View
 {
-    partial class FrmPedido
+    partial class FrmInventario
     {
         /// <summary>
         /// Required designer variable.

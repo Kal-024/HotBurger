@@ -31,6 +31,10 @@
             this.components = new System.ComponentModel.Container();
             this.DesignModel = new ComponentFactory.Krypton.Toolkit.KryptonPalette(this.components);
             this.panel5 = new System.Windows.Forms.Panel();
+            this.pictureBox12 = new System.Windows.Forms.PictureBox();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pbDeletePapas = new System.Windows.Forms.PictureBox();
             this.pbLessPapas = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -56,11 +60,11 @@
             this.btnLogin = new ComponentFactory.Krypton.Toolkit.KryptonButton();
             this.label7 = new System.Windows.Forms.Label();
             this.pictureBox16 = new System.Windows.Forms.PictureBox();
-            this.pbDeletePapas = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.panel5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbDeletePapas)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbLessPapas)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -75,10 +79,6 @@
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbDeletePapas)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             this.SuspendLayout();
             // 
             // DesignModel
@@ -212,6 +212,51 @@
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(359, 388);
             this.panel5.TabIndex = 7;
+            // 
+            // pictureBox12
+            // 
+            this.pictureBox12.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox12.Image = global::Krypton_Toolkit_Demo.Properties.Resources.trash_can_1_;
+            this.pictureBox12.Location = new System.Drawing.Point(321, 7);
+            this.pictureBox12.Name = "pictureBox12";
+            this.pictureBox12.Size = new System.Drawing.Size(30, 30);
+            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox12.TabIndex = 20;
+            this.pictureBox12.TabStop = false;
+            this.pictureBox12.Click += new System.EventHandler(this.pictureBox12_Click);
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox9.Image = global::Krypton_Toolkit_Demo.Properties.Resources.trash_can_1_;
+            this.pictureBox9.Location = new System.Drawing.Point(321, 49);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(30, 30);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox9.TabIndex = 19;
+            this.pictureBox9.TabStop = false;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox5.Image = global::Krypton_Toolkit_Demo.Properties.Resources.trash_can_1_;
+            this.pictureBox5.Location = new System.Drawing.Point(321, 90);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(30, 30);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox5.TabIndex = 18;
+            this.pictureBox5.TabStop = false;
+            // 
+            // pbDeletePapas
+            // 
+            this.pbDeletePapas.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pbDeletePapas.Image = global::Krypton_Toolkit_Demo.Properties.Resources.trash_can_1_;
+            this.pbDeletePapas.Location = new System.Drawing.Point(321, 126);
+            this.pbDeletePapas.Name = "pbDeletePapas";
+            this.pbDeletePapas.Size = new System.Drawing.Size(30, 30);
+            this.pbDeletePapas.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pbDeletePapas.TabIndex = 17;
+            this.pbDeletePapas.TabStop = false;
             // 
             // pbLessPapas
             // 
@@ -437,22 +482,23 @@
             this.label15.BackColor = System.Drawing.SystemColors.Control;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(146)))), ((int)(((byte)(28)))));
-            this.label15.Location = new System.Drawing.Point(284, 89);
+            this.label15.Location = new System.Drawing.Point(271, 89);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(79, 13);
+            this.label15.Size = new System.Drawing.Size(87, 13);
             this.label15.TabIndex = 26;
-            this.label15.Text = "Gestión Caja";
+            this.label15.Text = "Nuevo Pedido";
             // 
             // pictureBox15
             // 
             this.pictureBox15.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox15.Image = global::Krypton_Toolkit_Demo.Properties.Resources.icons8_cash_64;
-            this.pictureBox15.Location = new System.Drawing.Point(305, 36);
+            this.pictureBox15.Image = global::Krypton_Toolkit_Demo.Properties.Resources.icons8_purchase_order_100;
+            this.pictureBox15.Location = new System.Drawing.Point(299, 36);
             this.pictureBox15.Name = "pictureBox15";
             this.pictureBox15.Size = new System.Drawing.Size(43, 50);
             this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox15.TabIndex = 25;
             this.pictureBox15.TabStop = false;
+            this.pictureBox15.Click += new System.EventHandler(this.pictureBox15_Click);
             // 
             // btnLogin
             // 
@@ -536,51 +582,6 @@
             this.pictureBox16.TabIndex = 2;
             this.pictureBox16.TabStop = false;
             // 
-            // pbDeletePapas
-            // 
-            this.pbDeletePapas.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pbDeletePapas.Image = global::Krypton_Toolkit_Demo.Properties.Resources.trash_can_1_;
-            this.pbDeletePapas.Location = new System.Drawing.Point(321, 126);
-            this.pbDeletePapas.Name = "pbDeletePapas";
-            this.pbDeletePapas.Size = new System.Drawing.Size(30, 30);
-            this.pbDeletePapas.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pbDeletePapas.TabIndex = 17;
-            this.pbDeletePapas.TabStop = false;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox5.Image = global::Krypton_Toolkit_Demo.Properties.Resources.trash_can_1_;
-            this.pictureBox5.Location = new System.Drawing.Point(321, 90);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(30, 30);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox5.TabIndex = 18;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox9
-            // 
-            this.pictureBox9.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox9.Image = global::Krypton_Toolkit_Demo.Properties.Resources.trash_can_1_;
-            this.pictureBox9.Location = new System.Drawing.Point(321, 49);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(30, 30);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox9.TabIndex = 19;
-            this.pictureBox9.TabStop = false;
-            // 
-            // pictureBox12
-            // 
-            this.pictureBox12.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox12.Image = global::Krypton_Toolkit_Demo.Properties.Resources.trash_can_1_;
-            this.pictureBox12.Location = new System.Drawing.Point(321, 7);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(30, 30);
-            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox12.TabIndex = 20;
-            this.pictureBox12.TabStop = false;
-            this.pictureBox12.Click += new System.EventHandler(this.pictureBox12_Click);
-            // 
             // FrmPedido
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -597,6 +598,10 @@
             this.ShowIcon = false;
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbDeletePapas)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbLessPapas)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -614,10 +619,6 @@
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbDeletePapas)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
             this.ResumeLayout(false);
 
         }

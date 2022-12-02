@@ -7,7 +7,7 @@ namespace Krypton_Toolkit_Demo.Negocio.Util
         private static ConexionDB conexionDB;
 
         const string CnSaul = "Data Source= .; Initial Catalog=HotBurger; user=sa; password =123456";
-        const string CnCaleb = "Data Source= .; Initial Catalog=HotBurger; user=sa; password =123456";
+        const string CnCaleb = "Data Source=DESKTOP-35JDFS9; Initial Catalog=HotBurger;  user=Yelba; password =12345";
         
         SqlConnection sqlConnection;
 
@@ -26,7 +26,7 @@ namespace Krypton_Toolkit_Demo.Negocio.Util
            if(conexionDB == null)
             {
                 conexionDB = new ConexionDB();
-                conexionDB.sqlConnection = new SqlConnection(CnSaul);
+                conexionDB.sqlConnection = new SqlConnection(CnCaleb);
                 conexionDB.sqlCommand.Connection = conexionDB.sqlConnection;
                 conexionDB.sqlCommand.CommandType = CommandType.StoredProcedure;
                 conexionDB.sqlDataAdapter.SelectCommand = conexionDB.sqlCommand;
