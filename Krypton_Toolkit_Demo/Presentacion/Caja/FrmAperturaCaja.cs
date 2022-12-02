@@ -26,7 +26,6 @@ namespace Krypton_Toolkit_Demo.View
             FrmMenuPrincipal principal = new FrmMenuPrincipal();
             this.Hide();
             principal.ShowDialog();
-            //this.Visible = false;
             this.Close();
         }
     }

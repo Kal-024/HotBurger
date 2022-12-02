@@ -30,8 +30,8 @@ namespace Krypton_Toolkit_Demo.View
                 if (r == DialogResult.Yes)
                 {
                     frmLogin inicioSesion = new frmLogin();
-                    inicioSesion.ShowDialog();
                     this.Visible = false;
+                    inicioSesion.ShowDialog();
                     this.Close();
                 }
                 

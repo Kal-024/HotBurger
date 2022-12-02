@@ -1,4 +1,5 @@
 ﻿using ComponentFactory.Krypton.Toolkit;
+using Krypton_Toolkit_Demo.Negocio.Util;
 using Krypton_Toolkit_Demo.View;
 using System;
 using System.Collections.Generic;
@@ -21,11 +22,19 @@ namespace Krypton_Toolkit_Demo
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            FrmAperturaCaja aperturaCaja = new FrmAperturaCaja();
-            this.Hide();
-            aperturaCaja.ShowDialog();
-            //this.Visible = false;
-            this.Close();
+            if(Usuario.logIn(txtUser.Text, txtPassword.Text))
+            {
+                FrmAperturaCaja aperturaCaja = new FrmAperturaCaja();
+                this.Hide();
+                aperturaCaja.ShowDialog();
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Credenciales incorrectas: " + txtUser.Text + " " + txtPassword.Text);
+            }
+            
+           
         }
     }
 }
